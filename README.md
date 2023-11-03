@@ -1,7 +1,7 @@
 # Portafolio Personal de Diego M
 
 ## Descripción
-¡Bienvenido a mi portafolio personal! Aquí encontrarás una colección de proyectos relacionados con ciencia de datos y problemas de física numérica. Mi objetivo es compartir mi pasión por la exploración de datos y la resolución de problemas en el ámbito de la física a través de este espacio.
+¡Bienvenido a mi portafolio personal! Aquí encontrarás una colección de proyectos relacionados con ciencia de datos y problemas de física numérica.
 
 ## Contenido Destacado
 - **Proyectos de Ciencia de Datos**: Exploro conjuntos de datos, aplico técnicas de análisis y machine learning para extraer información valiosa y tomar decisiones basadas en datos.
