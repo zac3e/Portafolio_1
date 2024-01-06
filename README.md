@@ -10,7 +10,7 @@
 
 ## Ejemplos de Proyectos
 - [Suicidal_tweet_detection](https://github.com/zac3e/Portafolio_1/blob/main/Data_Science/Suicidal_tweet_detection.ipynb): El objetivo de este proyecto es entrenar un modelo para predecir si un tweet tiene intenciones suicidas
-- [Ecuacion_del_calor](https://github.com/zac3e/Portafolio_1/blob/main/Fisica/Ecuacion_del_calor.py): El objetivo de este proyecto es modelar la difusíon del calor en una barra unidimensional
+- [Ecuacion_del_calor](https://github.com/zac3e/Portafolio_1/blob/main/Fisica%20numerica/Ecuacion_del_calor.py): El objetivo de este proyecto es modelar la difusíon del calor en una barra unidimensional
 
 ## Cómo Explorar
 Si estás interesado en mi trabajo, puedes explorar los proyectos en mi portafolio. Cada proyecto incluye detalles sobre el problema, el enfoque de resolución y el código fuente y los resultados.
