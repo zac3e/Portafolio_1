@@ -8,7 +8,7 @@
 
 - **Problemas de Física Numérica**: Resuelvo desafíos y problemas de física que requieren métodos numéricos y simulaciones computacionales.
 
-- **Proyecto en COngresos y Reuniones**:Presento en los que he participado y los hemos presentado en Congreso Nacionales y Reuniones Nacionales
+- **Proyecto en Congresos y Reuniones**:Trabajos en los que he participado y los hemos presentado en Congreso Nacionales y Reuniones Nacionales
 ## Ejemplos de Proyectos
 - [Suicidal_tweet_detection](https://github.com/zac3e/Portafolio_1/blob/main/Data_Science/Suicidal_tweet_detection.ipynb): El objetivo de este proyecto es entrenar un modelo para predecir si un tweet tiene intenciones suicidas
 - [Ecuacion_del_calor](https://github.com/zac3e/Portafolio_1/blob/main/Fisica%20numerica/Ecuacion_del_calor.py): El objetivo de este proyecto es modelar la difusíon del calor en una barra unidimensional
